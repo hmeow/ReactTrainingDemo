@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import ClassComponent 2 from './ClassComponent 2';
+//import './index.css';
+//import App from './App';
+//import ClassComponent 2 from './ClassComponent 2';
 import reportWebVitals from './reportWebVitals';
-import ClassComponent 2 from '../../Downloads/ClassComponent 2';
+import FormDemo from './FormDemo';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ClassComponent 2/>
+    <FormDemo />
   </React.StrictMode>
 );
 
