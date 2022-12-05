@@ -31,12 +31,7 @@ class FormDemo extends React.Component{
     }
 render(){
     
-    const mystyle={
-        color:"white",
-        background color:"blue",
-        padding:"10px",
-        fontFamily:"Ariel"
-    };
+
 
     return(
        <div style={{display:'block,
