@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 //import App from './App';
 //import ClassComponent 2 from './ClassComponent 2';
 import reportWebVitals from './reportWebVitals';
-import FormDemo from './FormDemo';
+import FormDemo from './FormDemo1';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
